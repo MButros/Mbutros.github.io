@@ -18,8 +18,7 @@ Education
 
 Work experience
 ======
-* June 2024: Director of Education - AI4OPT <br />  
-  Georgia Institute of Technology
+* June 2024: Director of Education - AI4OPT at Georgia Institute of Technology
   
 * Summer 2022 – Summer 2024: AI4OPT Faculty Training Program Participant. Training received on Data Science, Mining and Engineering. Training took place online and at Georgia Institute of Technology (GA Tech).
 
