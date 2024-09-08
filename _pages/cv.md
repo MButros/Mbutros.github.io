@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Curriculum Vitae available in PDF upon request"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-## Curriculum Vitae available in PDF upon request
 
 Education
 ======
