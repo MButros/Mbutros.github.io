@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Downloadable CV](Resume.pdf)
+
 Education
 ======
 * M.S. in Mathematics, Northern Arizona University, 2000
@@ -111,3 +113,14 @@ Publications
 * Printed Test Bank for Elementary Statistics, Sixth Edition, by Neil Weis, Addison-Wesley 2004
 * [Nonlinear Elliptic Value Problems: A Numerical Approach, (Thesis), NAU 2000](Thesis.pdf)  
 
+Awards
+======
+* Best Mentor Award, VVC Students 2019
+* Reverse Teacher’s Pet Award, VVC 2013
+* Students Choice Award, VVC 2010
+* Student Choice Award, VVC 2009
+* Student Choice Award, VVC 2008
+* Who’s Who Among America’s Teachers 2006-2007
+* Graduate Teaching Assistant of the Year, NAU 2000
+* Tutor of the Semester, ASU Athletics Department, 1995
+* Tutor of the Year, VVC 1991
