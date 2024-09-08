@@ -32,6 +32,4 @@ Before joining AI4OPT, I was a professor of physics and mathematics at Victor Va
 * Engineering Mechanics – Statics
 * Computer Methods for Engineers – MATLAB
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
