@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Mathematics, Northern Arizona University, 2000
-* B.S. in Applied Mathematics, University of California, Irvine, 1994
+* M.S. in Mathematics, [Northern Arizona University](www.nau.edu), 2000
+* B.S. in Applied Mathematics, [University of California, Irvine](www.uci.edu), 1994
 
 Work experience
 ======
@@ -20,15 +20,17 @@ Work experience
   
 * Summer 2022 – Summer 2024: [AI4OPT Faculty Training Program](https://www.ai4opt.org/education/undergraduate-education/faculty-training-program) Participant. Training received on Data Science, Mining and Engineering. Training took place online and at Georgia Institute of Technology (GA Tech).
 
-* Summer 2020 – Summer 2022: Visiting Professor at NASA’s Armstrong Flight Research Center
-Fall 2020: Department Chair of Engineering Department: Animation, Architecture, Astronomy, Electronics, Engineering Drafting, and Physics.
+* Summer 2020 – Summer 2022: Visiting Professor at [NASA’s Armstrong Flight Research Center](https://www.nasa.gov/armstrong/)
+
+* Fall 2020 - Fall 2022: Department Chair of Engineering Department: Animation, Architecture, Astronomy, Electronics, Engineering Drafting, and Physics.
 
 * October 2015 – June 2024: Society of Physics Students, VVC Chapter Faculty Advisor
-Summers 2014-2018: Visiting Professor at NASA’s Armstrong Flight Research Center
+
+* Summers 2014-2018: Visiting Professor at NASA’s Armstrong Flight Research Center
 
 * August 2011 – June 2024: VVC Physics Club Faculty Advisor
 
-* August 2010 – August 2024: Professor, Departments of Physics and Mathematics, VVC, Victorville, CA
+* August 2010 – August 2024: Professor, Departments of Physics and Mathematics, [VVC](www.vvc.edu), Victorville, CA
 
 * June 2008 – June 2016: JPL’s CURE Program VVC Campus Faculty Advisor
 
