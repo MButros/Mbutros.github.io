@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Downloadable CV](Resume.pdf)
+## Curriculum Vitae available in PDF upon request
 
 Education
 ======
