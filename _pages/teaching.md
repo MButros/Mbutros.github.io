@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Current Teaching 
+* I am currently not teaching any classes.
  
 
 ## Courses I taught while at VVC:
