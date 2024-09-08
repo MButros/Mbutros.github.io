@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+* Introduction to Reinforcement Learning, AI4OPT Faculty Training Program 2024
+* Quarto and VS Code, AI4OPT Faculty Training Program 2024
 * Un-Grading: Standard Based Grading, VVC Professional Development Event 2021
 * Web-Enhanced Classes, VVC Professional Development Event 2021
 * A computational Approach to University Physics, AAPT Winter Meeting 2020
