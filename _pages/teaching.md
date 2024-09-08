@@ -6,10 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 ## Current Teaching 
-* 
+ 
 
 ## Courses I taught while at VVC:
+
 ### Mathematics Courses I taught:
 * Introduction to Statistics
 * Finite Mathematics
