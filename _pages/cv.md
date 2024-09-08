@@ -16,9 +16,9 @@ Education
 
 Work experience
 ======
-* June 2024: Director of Education - [AI4OPT](https://ai4opt.org) at [Georgia Institute of Technology](https://www.gatech.edu)
+* June 2024: Director of Education - [AI4OPT](https://www.ai4opt.org) at [Georgia Institute of Technology](https://www.gatech.edu)
   
-* Summer 2022 – Summer 2024: AI4OPT Faculty Training Program Participant. Training received on Data Science, Mining and Engineering. Training took place online and at Georgia Institute of Technology (GA Tech).
+* Summer 2022 – Summer 2024: [AI4OPT Faculty Training Program](https://www.ai4opt.org/education/undergraduate-education/faculty-training-program) Participant. Training received on Data Science, Mining and Engineering. Training took place online and at Georgia Institute of Technology (GA Tech).
 
 * Summer 2020 – Summer 2022: Visiting Professor at NASA’s Armstrong Flight Research Center
 Fall 2020: Department Chair of Engineering Department: Animation, Architecture, Astronomy, Electronics, Engineering Drafting, and Physics.
