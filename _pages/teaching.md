@@ -11,6 +11,7 @@ redirect_from:
  
 
 ## Courses I taught while at VVC:
+(All my classes include an online component through a course management system- currently I am using CANVAS)
 
 ### Mathematics Courses I taught:
 * Introduction to Statistics
