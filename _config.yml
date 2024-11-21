@@ -27,7 +27,7 @@ author:
   bio              : "AI4OPT - Director of Education"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
-  uri              : https://ai4opt.org
+  uri              : #https://ai4opt.org
   email            : "michael.butros@gatech.edu" 
 
   # Academic websites
