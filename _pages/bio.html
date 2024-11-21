@@ -1,11 +1,16 @@
+---
 layout: archive
-title: "Bio"
+title: "Brief Bio"
 permalink: /Bio/
 author_profile: true
 ---
 
-{% include base_path %}
+{% if site.talkmap_link == true %}
 
-{% for post in site.Bio reversed %}
-  {% include archive-single.html %}
+<p style="text-decoration:underline;"><a href="/talkmap.html">Brief biography!</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-bio.html %}
 {% endfor %}
