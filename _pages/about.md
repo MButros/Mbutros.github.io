@@ -11,6 +11,8 @@ My name is Michael Butros and I am the Director of Education at the [Artificial 
 
 Before joining AI4OPT, I was a professor of physics and mathematics at [Victor Valley College (VVC)](www.vvc.edu), a two-year community college in Southern California, between 2000-2024. As a professor I was interested in the use of technology and computation in the introductory physics and mathematics courses. I also used Mastery Grading, Peer Instruction, Inquiry Based Learning, and Flipped Classrooms techniques. While at VVC, I served as the chair of Physics Department, the VVC Physics Club Advisor, and the Society of Physics Students Chapter Advisor.
 
+## Brief Biography
+
 ### Early On
 I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle East) when I was two years old.  I completed high school in Jordan and shortly after that I returned to the US to begin my higher education.  While in Jordan I was active in the Boy Scouts, soccer (we call it football though), and basketball.
 
