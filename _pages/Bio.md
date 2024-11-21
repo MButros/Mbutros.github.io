@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Bio"
+permalink: /Bio/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ### Early On
 I was born in Yonkers, New York but my family moved to Amman, Jordan (Middle East) when I was two years old.  I completed high school in Jordan and shortly after that I returned to the US to begin my higher education.  While in Jordan I was active in the Boy Scouts, soccer (we call it football though), and basketball.
 
