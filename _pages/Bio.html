@@ -1,0 +1,11 @@
+layout: archive
+title: "Brief Bio"
+permalink: /Bio/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.Bio reversed %}
+  {% include archive-single.html %}
+{% endfor %}
