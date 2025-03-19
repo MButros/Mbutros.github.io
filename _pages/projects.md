@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-## REU Site:
-## Expand AI: AIHUB@CAU
+COMING SOON!
 
